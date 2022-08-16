@@ -1,0 +1,2 @@
+"# manage-authority" 
+"# manager-authenticate" 
